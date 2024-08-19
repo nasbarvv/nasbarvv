@@ -12,14 +12,13 @@
 
 
 **Курсы:**<br>
-https://stepik.org/cert/2488794<br>
-https://youtube.com/playlist?list=PLZqgWWF4O-ziBZVXN19WcRHPM5DkH672c&feature=shared<br>
-https://youtube.com/playlist?list=PLZqgWWF4O-zgDLDBMva788aJf_vQ9GKJv&feature=shared<br>
-https://stepik.org/cert/2474443<br>
-https://stepik.org/cert/2467136<br>
-https://stepik.org/cert/2465939<br>
-https://stepik.org/cert/2470327<br>
-https://stepik.org/cert/2525923
+https://stepik.org/cert/2392515<br>
+https://stepik.org/cert/2402969<br>
+https://stepik.org/cert/2465833<br>
+https://stepik.org/cert/2470093<br>
+https://stepik.org/cert/2482454<br>
+https://stepik.org/cert/2498200<br>
+https://stepik.org/cert/2516848<br>
 
 
 ---
