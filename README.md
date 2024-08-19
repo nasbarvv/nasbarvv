@@ -58,7 +58,6 @@ https://stepik.org/cert/2539890<br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
   <img src="https://www.selenium.dev/images/logos/webdriver.svg" title="Selenium WebDriver" alt="Selenium WebDriver" width="40" height="40"/>&nbsp
-  <img src="https://www.selenium.dev/images/logos/grid.svg" title="Selenium Grid" alt="Selenium Grid" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png" title="Notepad++" alt="Notepad++" width="40" height="40"/>&nbsp
 </div>
 
